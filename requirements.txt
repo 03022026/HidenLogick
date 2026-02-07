@@ -1,0 +1,6 @@
+PyQt6
+minecraft-launcher-lib
+requests
+pywin32
+psutil
+pypresence

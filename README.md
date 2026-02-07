@@ -33,13 +33,21 @@ A **premium-grade Minecraft launcher** built with PyQt6 and minecraft-launcher-l
 
 ## 🔧 Installation
 
-1. Install optional desktop shortcut support:
+1. Create and activate a virtual environment:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+2. Install optional desktop shortcut support:
 
 ```powershell
 pip install pywin32
 ```
 
-2. Run the app:
+3. Run the app:
 
 ```powershell
 python aplication.py
