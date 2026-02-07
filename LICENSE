@@ -1,0 +1,78 @@
+MIT License with Additional Copyright Protection Clause
+
+Copyright (c) 2026 HidenLogick Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. ATTRIBUTION REQUIREMENT:
+   All copies or substantial portions of the Software must include prominent
+   attribution to the original HidenLogick project and retain all copyright,
+   patent, trademark, and attribution notices in the Software.
+
+2. COPYRIGHT PROTECTION:
+   This Software is licensed, not sold. The original copyright holder retains
+   all rights not expressly granted herein. You may not claim ownership of
+   the Software or present yourself as the creator of the original work.
+
+3. DERIVATIVE WORKS:
+   If you create derivative works or modifications, you must:
+   a) Clearly mark all modifications as such
+   b) Retain all original copyright notices
+   c) State that your derivative work is based on HidenLogick
+   d) Apply this same license to any distributed derivative work
+
+4. COMMERCIAL USE:
+   Commercial use is permitted under the following conditions:
+   a) Provide prominent attribution to HidenLogick
+   b) Include a link to the official HidenLogick repository
+   c) Do not imply official endorsement or association
+
+5. TRADEMARK PROTECTION:
+   You may not use the name "HidenLogick" or any confusingly similar name
+   without explicit written permission from the original copyright holder.
+   Derivative works must use a clearly different name.
+
+6. REPOSITORY REQUIREMENT:
+   All distributed copies must include a reference to the official source:
+   https://github.com/[original-repo-path]
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+==============================================================================
+
+ANTI-PLAGIARISM & ANTI-THEFT CLAUSE:
+
+Any attempt to:
+- Remove or obscure copyright notices
+- Claim original authorship of code originally written for HidenLogick
+- Distribute without attribution
+- Misrepresent the software's origin
+
+...constitutes infringement and may result in:
+- DMCA takedown notices
+- Legal action for damages
+- Removal from distribution platforms
+
+This license is enforceable in jurisdictions supporting MIT License and
+additional copyright protection mechanisms.
+
+Compliance verification: Users of this software implicitly agree to abide by
+all terms herein. Distribution platforms (GitHub, PyPI, etc.) may enforce
+compliance by removing violating content upon notice.
+
+==============================================================================
+
+For questions about licensing: Contact the HidenLogick team.
+This software forms the technological foundation that makes HidenLogick
+unique and valuable. Unauthorized redistribution or plagiarism is not allowed.
