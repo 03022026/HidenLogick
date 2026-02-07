@@ -1,6 +1,0 @@
-{
-  "auto_import_on_startup": true,
-  "scan_interval_minutes": 6,
-  "backup_copies": true,
-  "enable_scanner": false
-}
